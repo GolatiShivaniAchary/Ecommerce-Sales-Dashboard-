@@ -47,5 +47,5 @@ The dataset includes the following key dimensions:
 ---
 
 ## Demo Of Dashboard
-Example: ![image alt](https://github.com/GolatiShivaniAchary/Blink-IT-Sales-Dashboard/blob/main/Dashboard.png)
+Example: ![image alt](https://github.com/GolatiShivaniAchary/Ecommerce-Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
 
